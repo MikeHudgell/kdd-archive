@@ -1,0 +1,9 @@
+Parameter,Value
+SubscriptionID,MySubscriptionID
+ResourceGroup,barugdsvm
+Profilepath,AzureSubscriptionInfo.json
+ClusterStartIndex,1
+ClusterEndIndex,10
+ClusterPrefix,barugdsvm
+ClusterInfoOutputFileName,clusterOutFile.csv
+SshUsername,remoteuser
