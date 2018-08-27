@@ -1,0 +1,13 @@
+box2d-py
+gym[atari]
+jupyter
+matplotlib
+pandas
+ray[rllib]
+seaborn
+tensorflow
+torch
+torchvision
+
+# dev 
+pip-tools
